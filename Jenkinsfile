@@ -5,6 +5,7 @@ pipeline {
 			steps{
 				checkout scm
 		}
+		}
 		stage ('Build Stage'){
 			steps{
 				bat "\"${tool 'MSBuild'}\" JenkinsGitDemo.sln /p:Configuration=Release /p:Platform=\"Any CPU\" /p:ProductVersion=1.0.0.${env.BUILD_NUMBER}"
@@ -15,7 +16,6 @@ pipeline {
 				bat 'cd D:\Jenkins\JenkinsHome\workspace\Compile\JenkinsGitDemo\bin\Debug'
 				bat 'JenkinsGitDemo.exe'
 			}			
-		}
 		}
 	}
 }

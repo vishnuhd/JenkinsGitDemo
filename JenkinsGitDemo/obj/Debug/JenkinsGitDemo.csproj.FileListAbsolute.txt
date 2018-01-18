@@ -1,0 +1,6 @@
+c:\users\vishnu.dadhich\documents\visual studio 2015\Projects\JenkinsGitDemo\JenkinsGitDemo\bin\Debug\JenkinsGitDemo.exe.config
+c:\users\vishnu.dadhich\documents\visual studio 2015\Projects\JenkinsGitDemo\JenkinsGitDemo\bin\Debug\JenkinsGitDemo.exe
+c:\users\vishnu.dadhich\documents\visual studio 2015\Projects\JenkinsGitDemo\JenkinsGitDemo\bin\Debug\JenkinsGitDemo.pdb
+c:\users\vishnu.dadhich\documents\visual studio 2015\Projects\JenkinsGitDemo\JenkinsGitDemo\obj\Debug\JenkinsGitDemo.csprojResolveAssemblyReference.cache
+c:\users\vishnu.dadhich\documents\visual studio 2015\Projects\JenkinsGitDemo\JenkinsGitDemo\obj\Debug\JenkinsGitDemo.exe
+c:\users\vishnu.dadhich\documents\visual studio 2015\Projects\JenkinsGitDemo\JenkinsGitDemo\obj\Debug\JenkinsGitDemo.pdb

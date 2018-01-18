@@ -13,8 +13,7 @@ pipeline {
 		}
 		stage ('Run Stage'){
 			steps{
-				bat "cd D:\\Jenkins\\JenkinsHome\\workspace\\PipelineDemo\\JenkinsGitDemo\\bin\\Debug"
-				bat 'JenkinsGitDemo.exe'
+				bat 'D:\\Jenkins\\JenkinsHome\\workspace\\PipelineDemo\\JenkinsGitDemo\\bin\\Debug\\JenkinsGitDemo.exe'
 			}			
 		}
 	}

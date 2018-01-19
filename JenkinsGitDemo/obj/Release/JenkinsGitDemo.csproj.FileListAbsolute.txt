@@ -1,0 +1,6 @@
+D:\Jenkins\JenkinsHome\workspace\PipelineDemo\JenkinsGitDemo\bin\Release\JenkinsGitDemo.exe.config
+D:\Jenkins\JenkinsHome\workspace\PipelineDemo\JenkinsGitDemo\bin\Release\JenkinsGitDemo.exe
+D:\Jenkins\JenkinsHome\workspace\PipelineDemo\JenkinsGitDemo\bin\Release\JenkinsGitDemo.pdb
+D:\Jenkins\JenkinsHome\workspace\PipelineDemo\JenkinsGitDemo\obj\Release\JenkinsGitDemo.csprojResolveAssemblyReference.cache
+D:\Jenkins\JenkinsHome\workspace\PipelineDemo\JenkinsGitDemo\obj\Release\JenkinsGitDemo.exe
+D:\Jenkins\JenkinsHome\workspace\PipelineDemo\JenkinsGitDemo\obj\Release\JenkinsGitDemo.pdb

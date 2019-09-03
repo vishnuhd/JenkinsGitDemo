@@ -1,0 +1,32 @@
+pipeline {
+	agent any
+	options {
+    skipDefaultCheckout(true)
+	}
+	stages {
+		stage ('Checkout Stage'){
+			steps{
+				echo 'Checkout Stage'
+				checkout scm
+		}
+		}
+		stage ('Build Stage'){
+			steps{
+				echo 'Build Stage'
+				sh 'pwd'
+			}
+		}
+		stage ('Run Stage'){
+			steps{
+				echo 'Run Stage'
+				sh 'pwd'
+			}			
+		}
+		stage ('Deploy Stage'){
+			steps{
+				echo 'Deploy Stage'
+				sh 'pwd'
+			}			
+		}
+	}
+}

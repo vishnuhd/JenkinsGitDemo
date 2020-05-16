@@ -23,7 +23,7 @@ pipeline {
 				ls -al
 				pwd
 				chmod +x JenkinsScript.sh
-				JenkinsScript.sh
+				./JenkinsScript.sh
 				'''
 			}
 		}

@@ -22,8 +22,8 @@ pipeline {
 				sh label: '', script: '''
 				ls -al
 				pwd
-				chmod +x script.sh
-				bash ./script.sh
+				chmod +x JenkinsScript.sh
+				JenkinsScript.sh
 				'''
 			}
 		}

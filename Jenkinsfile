@@ -23,6 +23,7 @@ pipeline {
 				ls -al
 				pwd
 				chmod +x testscript.sh
+				sleep 20
 				./testscript.sh
 				'''
 			}

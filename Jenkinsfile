@@ -23,7 +23,7 @@ pipeline {
 				ls -al
 				pwd
 				chmod +x script.sh
-				./script.sh
+				bash ./script.sh
 				'''
 			}
 		}

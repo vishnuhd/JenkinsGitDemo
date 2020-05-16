@@ -16,6 +16,7 @@ pipeline {
 				echo 'Build Stage'
 				sh 'ls -al'
 				sh label: '', script: '''
+				ls -al
 				./script.sh
 				'''
 			}
